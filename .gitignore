@@ -1,0 +1,10 @@
+
+src/csharp/StringCalculator/StringCalculator.crunchsolution.cache
+src/csharp/StringCalculator/StringCalculator.ncrunchsolution
+src/csharp/StringCalculator/StringCalculator.suo
+src/csharp/StringCalculator/StringCalculator.sln.docstates.suo
+src/csharp/StringCalculator/StringCalculator.sln.DotSettings.user
+src/csharp/StringCalculator/StringCalculator.ncrunchsolution.user
+src/csharp/StringCalculator/StringCalculator/bin
+src/csharp/StringCalculator/StringCalculator/obj
+*.ncrunchproject
