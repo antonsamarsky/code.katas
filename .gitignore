@@ -8,3 +8,5 @@ src/csharp/StringCalculator/StringCalculator.ncrunchsolution.user
 src/csharp/StringCalculator/StringCalculator/bin
 src/csharp/StringCalculator/StringCalculator/obj
 *.ncrunchproject
+src/csharp/StringCalculator/Console/bin
+src/csharp/StringCalculator/Console/obj
